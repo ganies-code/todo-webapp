@@ -49,7 +49,7 @@ function App() {
               </span>
             </div>
           ))}
-        {JSON.stringify(tasks)}
+        {/* {JSON.stringify(tasks)} */}
       </div>
       <div style={{ padding: 20 }}>
         <input
